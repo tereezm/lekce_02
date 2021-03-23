@@ -88,24 +88,20 @@ note:
 ```htmlmixed
 <p lang="en">English</p>
 ```
-<!-- .element: class="c-text-sm fragment fade-in" -->
 
 ```htmlmixed
 <p lang="cs">česky</p>
 ```
-<!-- .element: class="c-text-sm fragment fade-in" -->
 
 ```htmlmixed
 <p lang="sk">slovensky</p>
 ```
-<!-- .element: class="c-text-sm fragment fade-in" -->
 
 ```css
 :lang(cs) {
     color: crimson;
 }
 ```
-<!-- .element: class="c-text-sm fragment fade-in" -->
 
 note:
 - komentář se zadáním: je pravda, že se ignoruje, ale měl by být přinejmenším až za `<!DOCTYPE html>` a pokud už není třeba, smazat
@@ -159,7 +155,6 @@ note:
 
 note:
 
-- **ukázat**: fork a klon přes GitHub Desktop
 - Zdroj textu: [Blábot](https://www.blabot.cz/cs/capek)
 - **ukázat**: <kbd>Ctrl+Shift+P</kbd> a příkaz Emmet: wrap => obalování
 - **ukázat**: <kbd>Ctrl+D</kbd> => atributy `width` a `height`
@@ -237,12 +232,9 @@ note:
 1. Aby byl obrázek vidět, nastav záhlaví minimální výšku.
 1. Záhlaví nastav rozdílný horizontální a vertikální padding.
 1. Zvětši a vycentruj hlavní nadpis stránky.
-<!-- .element: class="c-text-xs"-->
 
 **Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
-<!-- .element: class="c-text-xs"-->
 **Bonus 2**: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
-<!-- .element: class="c-text-xs"-->
 
 
 note:

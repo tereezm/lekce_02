@@ -393,6 +393,10 @@ note:
 
 ---
 
+# Víc jsme toho na hodině nestihli ;) 
+
+---
+
 # Proměnné vlastnosti <br> (CSS custom properties)
 
 note:

@@ -125,13 +125,13 @@ Zjednodušíme si život.
 **úkol**: Otevřete si VS Code a v něm nastavení (_File | Preferences_ nebo <kbd>Ctrl/Cmd+,</kbd>)
 - zadejte postupně do vyhledávacího pole
     1. Wrap line length: `0`
-    2. Format on save: ☑
-    3. Render whitespace: `all`
-    4. Trim auto whitespace: ☑
+    2. Editor: Word Wrap: `on`
+    3. Format on save: ☑
+    4. Render whitespace: `all`
+    5. Trim auto whitespace: ☑
 
 note:
 
-- ukázat, vysvětlit
 - pokud ti to nebude vyhovovat, vypni si to
 
 
@@ -159,7 +159,7 @@ note:
 - **ukázat**: <kbd>Ctrl+Shift+P</kbd> a příkaz Emmet: wrap => obalování
 - **ukázat**: <kbd>Ctrl+D</kbd> => atributy `width` a `height`
 - Bonus: kdo má hotovo.
-- Ukázat rozdíl, když atributy `width` a `height` chybí, a když jsou.
+- Ukázat rozdíl, když atributy `width` a `height` chybí, a když jsou. Stránka při jejich použití neposkakuje při načítání.
 
 ---
 
@@ -239,7 +239,7 @@ note:
 
 note:
 
-- v CSS využívám emmet, šetří psaní!
+- v CSS využívej emmet, šetří psaní!
 
 ---
 

@@ -4,6 +4,49 @@ Podzim 2021, Liberec
 
 <small>4. řijna 2021</small>
 
+Zadání od cvičení:
+
+#### VS Code: Nastavení - úkol
+úkol: Otevřete si VS Code a v něm nastavení (File | Preferences nebo Ctrl/Cmd+,)
+zadejte postupně do vyhledávacího pole
+Wrap line length: 0
+Editor: Word Wrap: on
+Format on save: ☑
+Render whitespace: all
+Trim auto whitespace: ☑
+
+#### Cvičení 01
+Forkni si a naklonuj cvičení.
+Vytvoř z hlavního nadpisu a navigace záhlaví (header).
+Obal vše mimo záhlaví prvkem main.
+Rozděl text do sekcí (každá začíná nadpisem 3. úrovně).
+Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.
+Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
+
+
+#### Cvičení 02
+Vytvoř horizontální navigaci (odkazy do jednoho řádku) a vycentruj ji.
+Odkazy podbarvi průsvitnou barvou.
+Do záhlaví přidej obrázek na pozadí (URL v komentáři v CSS).
+Aby byl obrázek vidět, nastav záhlaví minimální výšku.
+Záhlaví nastav rozdílný horizontální a vertikální padding.
+Zvětši a vycentruj hlavní nadpis stránky.
+**Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
+**Bonus** 2: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
+
+#### Cvičení 03
+Omez šířku stránky a stránku vycentruj (zarovnej na střed).
+Prvek main podbarvi shodnou barvou jako odkazy v navigaci. Nastav mu padding.
+Podbarvi všechny section primární barvou. Přidej jim padding.
+Přidej section spodní ohraničení, které bude tečkované a v tmavé primární barvě.
+**Bonus**: Roztáhni section až do kraje (aby se dotýkaly okraje main a section).
+
+
+#### Cvičení 04
+Zuž obrázky v sekcích na 175 pixelů.
+Nastav jim plavání (vlevo nebo vpravo).
+
+
 
 <!--
 note:

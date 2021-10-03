@@ -16,21 +16,21 @@ Render whitespace: all
 Trim auto whitespace: ☑
 
 #### Cvičení 01
-Forkni si a naklonuj cvičení.
-Vytvoř z hlavního nadpisu a navigace záhlaví (header).
-Obal vše mimo záhlaví prvkem main.
-Rozděl text do sekcí (každá začíná nadpisem 3. úrovně).
-Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.
+1. Forkni si a naklonuj cvičení.
+2. Vytvoř z hlavního nadpisu a navigace záhlaví (header).
+3. Obal vše mimo záhlaví prvkem main.
+4. Rozděl text do sekcí (každá začíná nadpisem 3. úrovně).
+5. Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.
 Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
 
 
 #### Cvičení 02
-Vytvoř horizontální navigaci (odkazy do jednoho řádku) a vycentruj ji.
-Odkazy podbarvi průsvitnou barvou.
-Do záhlaví přidej obrázek na pozadí (URL v komentáři v CSS).
-Aby byl obrázek vidět, nastav záhlaví minimální výšku.
-Záhlaví nastav rozdílný horizontální a vertikální padding.
-Zvětši a vycentruj hlavní nadpis stránky.
+1. Vytvoř horizontální navigaci (odkazy do jednoho řádku) a vycentruj ji.
+2. Odkazy podbarvi průsvitnou barvou.
+3. Do záhlaví přidej obrázek na pozadí (URL v komentáři v CSS).
+4. Aby byl obrázek vidět, nastav záhlaví minimální výšku.
+5. Záhlaví nastav rozdílný horizontální a vertikální padding.
+6. Zvětši a vycentruj hlavní nadpis stránky.
 **Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
 **Bonus** 2: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
 

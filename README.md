@@ -4,6 +4,8 @@ jaro 2021, Praha
 
 <small>23. března 2021</small>
 
+
+<!--
 note:
 
 - **dotaz**: Jak vyhovovalo tempo minule?
@@ -538,5 +540,8 @@ Chtělo by to dotáhnout pár věcí:
         - <span class="fragment fade-in"><kbd>Ctrl+Shift+click</kbd></span>
 - otevřít odkaz do nového okna
     - <span class="fragment fade-in"><kbd>Shift+click</kbd></span>
+
+-->
+
 
 ---

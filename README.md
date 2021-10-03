@@ -21,7 +21,7 @@ Trim auto whitespace: ☑
 3. Obal vše mimo záhlaví prvkem main.
 4. Rozděl text do sekcí (každá začíná nadpisem 3. úrovně).
 5. Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.  
-Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
+**Bonus:** Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
 
 
 #### Cvičení 02
@@ -35,15 +35,15 @@ Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
 **Bonus** 2: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
 
 #### Cvičení 03
-Omez šířku stránky a stránku vycentruj (zarovnej na střed).
-Prvek main podbarvi shodnou barvou jako odkazy v navigaci. Nastav mu padding.
-Podbarvi všechny section primární barvou. Přidej jim padding.
-Přidej section spodní ohraničení, které bude tečkované a v tmavé primární barvě.
+1. Omez šířku stránky a stránku vycentruj (zarovnej na střed).
+2. Prvek main podbarvi shodnou barvou jako odkazy v navigaci. Nastav mu padding.
+3. Podbarvi všechny section primární barvou. Přidej jim padding.
+4. Přidej section spodní ohraničení, které bude tečkované a v tmavé primární barvě.  
 **Bonus**: Roztáhni section až do kraje (aby se dotýkaly okraje main a section).
 
 
 #### Cvičení 04
-Zuž obrázky v sekcích na 175 pixelů.
+Zuž obrázky v sekcích na 175 pixelů.  
 Nastav jim plavání (vlevo nebo vpravo).
 
 

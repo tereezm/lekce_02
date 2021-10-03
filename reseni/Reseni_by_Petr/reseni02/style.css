@@ -1,0 +1,50 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+
+  body {
+    margin: 0;
+  } 
+  
+  /*
+    background image: https://picsum.photos/1200/300
+    primary color: hsla(160, 50%, 50%, 1);
+    primary: #40bf95;
+    dark: #003322;
+    semi-transparent: #40bf9599;
+  */
+  
+  /* 02 */
+  nav {
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline;
+  }
+  
+  nav a {
+    padding: 1rem;
+    background-color: #40bf9599;
+  }
+  
+  header {
+    width: 100%;
+    min-height: 300px;
+    padding: 2rem 4rem;
+    background-image: url('https://picsum.photos/1200/300');
+    background-size: cover; /* navic */
+  }
+  
+  h1 {
+    font-size: 3rem;
+    text-align: center;
+  }
+  /* konec 02 */

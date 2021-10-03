@@ -7,20 +7,20 @@ Podzim 2021, Liberec
 Zadání od cvičení:
 
 #### VS Code: Nastavení - úkol
-úkol: Otevřete si VS Code a v něm nastavení (File | Preferences nebo Ctrl/Cmd+,)
-zadejte postupně do vyhledávacího pole
-Wrap line length: 0
-Editor: Word Wrap: on
-Format on save: ☑
-Render whitespace: all
-Trim auto whitespace: ☑
+úkol: Otevřete si VS Code a v něm nastavení (File | Preferences nebo Ctrl/Cmd+,)  
+zadejte postupně do vyhledávacího pole  
+Wrap line length: 0  
+Editor: Word Wrap: on  
+Format on save: ☑  
+Render whitespace: all  
+Trim auto whitespace: ☑  
 
 #### Cvičení 01
 1. Forkni si a naklonuj cvičení.
 2. Vytvoř z hlavního nadpisu a navigace záhlaví (header).
 3. Obal vše mimo záhlaví prvkem main.
 4. Rozděl text do sekcí (každá začíná nadpisem 3. úrovně).
-5. Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.
+5. Obrázkům přidej atributy width a height. Široké budou 250 a vysoké 400 pixelů.  
 Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
 
 
@@ -30,7 +30,7 @@ Bonus: Rozchoď navigaci, aby odkazy vedly na jednotlivé sekce.
 3. Do záhlaví přidej obrázek na pozadí (URL v komentáři v CSS).
 4. Aby byl obrázek vidět, nastav záhlaví minimální výšku.
 5. Záhlaví nastav rozdílný horizontální a vertikální padding.
-6. Zvětši a vycentruj hlavní nadpis stránky.
+6. Zvětši a vycentruj hlavní nadpis stránky.  
 **Bonus**: Záhlaví není do kraje => zjisti v devTools proč a oprav
 **Bonus** 2: Odkazy v navigaci mění po najetí myši pobarvení na plnou (neprůsvitnou barvu).
 
